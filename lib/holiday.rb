@@ -70,8 +70,8 @@ def all_supplies_in_holidays(holiday_hash)
       puts "#{holiday}: ".capitalize!
         holiday_array.each do |holiday|
           holiday.join(", ").capitalize!
-        end  
-    end  
+        end
+    end
   end
 end
 
