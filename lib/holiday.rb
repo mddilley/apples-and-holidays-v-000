@@ -82,7 +82,7 @@ def all_holidays_with_bbq(holiday_hash)
         # if holiday_array.include?("BBQ")
         #   bbq_array << holiday
         # end
-        
+
     end
     bbq_array
   end
